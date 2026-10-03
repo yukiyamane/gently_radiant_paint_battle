@@ -1,0 +1,5 @@
+preset = "strict"
+
+[checkers]
+check-unannotated-defs = true
+infer-return-types = "always"
